@@ -3,19 +3,19 @@
 ## Tech Stack
 jarodccrowe/redux is built on the following main stack:
 
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [Monit](https://mmonit.com) – Monitoring Tools
-- [ESLint](http://eslint.org/) – Code Review
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [Redux](https://redux.js.org/) – State Management Library
 - [redux-thunk](https://github.com/gaearon/redux-thunk) – State Management Library
-- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [ESLint](http://eslint.org/) – Code Review
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [Monit](https://mmonit.com) – Monitoring Tools
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -25,19 +25,19 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 jarodccrowe/redux is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2986/MonitLogo.png' alt='Monit'/> [Monit](https://mmonit.com) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/4074/13142323.png' alt='Redux'/> [Redux](https://redux.js.org/) – State Management Library
 - <img width='25' height='25' src='https://img.stackshare.io/service/5448/13142323.png' alt='redux-thunk'/> [redux-thunk](https://github.com/gaearon/redux-thunk) – State Management Library
-- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/2986/MonitLogo.png' alt='Monit'/> [Monit](https://mmonit.com) – Monitoring Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jarodccrowe/redux](https://github.com/jarodccrowe/redux)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|50<br/>Tools used|01/18/24 <br/>Report generated|
+|50<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
