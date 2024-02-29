@@ -2,7 +2,7 @@ repo_name: jarodccrowe/redux
 report_id: 131d3fb73fe7344496d9071bfcb5474e
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-18T02:43:20+00:00'
+timestamp: '2024-02-29T19:29:54+00:00'
 requested_by: ellbee
 provider: github
 branch: master
@@ -127,7 +127,7 @@ tools:
   last_updated_by: Dan Abramov
   last_updated_on: 2015-10-15 15:15:48.000000000 Z
 - name: Monit
-  description: 'A free, open-source process supervision tool '
+  description: A free, open-source process supervision tool
   website_url: https://mmonit.com
   open_source: false
   hosted_saas: false
